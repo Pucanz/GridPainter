@@ -13,8 +13,8 @@ It allows users to have full control over the grid and the painting, offering a 
 
 ## Technologies Used
 
-Java: for the development of the application
-Simple Graphics lib
+- Java: for the development of the application
+- Simple Graphics lib
 
 ## How to Contribute
 
