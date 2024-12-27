@@ -1,4 +1,4 @@
-# 🎨 Paint Game 🎨
+# 🎨 Grid Painter 🎨
 
 Paint Game is a Java project developed during the 5th week of my Java bootcamp.
 The game consists of an interactive grid where you can paint squares, remove the paint, and save or load your progress to continue later.
