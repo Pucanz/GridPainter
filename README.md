@@ -6,16 +6,19 @@ It allows users to have full control over the grid and the painting, offering a 
 
 ## Features
 
-- Paint squares on the grid
-- Remove the paint from squares
-- Save your current painting
-- Load a previously saved painting to continue
+- Paint squares on the grid (Move with arrows and press SpaceBar to paint a square)
+- Remove the paint from squares (Press SpaceBar in a painted square)
+- Clear all painted squares (Key: C)
+- Save your current painting (Key: S)
+- Load a previously saved painting to continue (Key: L)
 
 ## Technologies Used
 
-- Java: for the development of the application
+- Java
 - Simple Graphics lib
 
-## How to Contribute
+## Project Demo 🎨
 
-Feel free to fork this project and submit pull requests with improvements or new featuresgi
+![Project Demo](Resources/demo.gif)
+
+Hope you like! 
